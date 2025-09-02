@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-math",
+        },{id: "post-dogs-playing-poker",
         
-          title: "a post with math",
+          title: "Dogs Playing Poker",
         
-        description: "an example of a blog post with some math",
+        description: "Jane Street Puzzle, August 2025",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/Test-Post/";
+            window.location.href = "/blog/2025/Dogs-Playing-Poker/";
           
         },
       },{id: "books-the-godfather",
