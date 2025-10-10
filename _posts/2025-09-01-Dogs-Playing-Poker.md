@@ -8,7 +8,7 @@ categories: puzzles
 related_posts: true
 ---
 
-# Problem
+# [Problem](https://www.janestreet.com/puzzles/dogs-playing-poker-index/)
 You won’t find poker faces here—these poor pups can’t hide their emotions or the cards that cause them! What they’re feeling is practically spelled out for everyone to see. It should be enough for you to figure out which cards my pet doodle is holding.
 
 Submit your answer as an abbreviation of the cards using letters or numbers with the card then suit. For example, the Ace of Spades and Ten of Hearts would be abbreviated as **AS,10H**.
@@ -31,8 +31,12 @@ After struggling for couple more days, I focused on the next clue: "what they're
 
 Then, I noticed that each card had a chip stack next to it, and shifted each letter forward by the number of chips in the corresponding pile.
 
-![Chip Stacks](images/chip_stacks.png)
-*Figure 1: Chip Stacks with Count*
+<div class="col-6 mx-auto">
+    {% include figure.liquid loading="eager" path="assets/img/blog/chip_stacks.png" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+    Figure 1: Chip Stacks with Count.
+</div>
 
 Doing so resulted in the message: "the canine of clubs."
 
@@ -57,7 +61,11 @@ Doing so resulted in the message: "the canine of clubs."
 
 "Canine" is a homonym for K9, so our poodle's hand must be KC, 9C!
 
-![K9 Dog](images/k9_dog.jpg)
-*Figure 2: K9 Dog*
+<div class="col-6 mx-auto">
+    {% include figure.liquid loading="eager" path="assets/img/blog/k9_dog.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+    Figure 2: K9 Dog.
+</div>
 
 This was my first Jane Street puzzle, and I really enjoyed working on it. I will probably give future ones a try as well.
