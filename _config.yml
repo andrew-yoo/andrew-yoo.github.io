@@ -7,7 +7,7 @@ first_name: Andrew
 middle_name:
 last_name: Yoo
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Contact me via email: [first][last]@duck.com, where [first] and [last] are my first name and last name, respectively.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Andrew Yoo's personal website.
 footer_text: >
