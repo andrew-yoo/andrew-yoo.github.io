@@ -5,7 +5,7 @@ date: 2025-09-01 19:00:00-0400
 description: Jane Street Puzzle, August 2025
 tags: 
 categories: puzzles
-giscus_comments: false
+giscus_comments: true
 related_posts: true
 ---
 
