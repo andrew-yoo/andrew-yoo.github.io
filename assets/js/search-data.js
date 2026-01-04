@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-dogs-playing-poker",
+        },{id: "post-robot-javelin",
+        
+          title: "Robot Javelin",
+        
+        description: "Jane Street Puzzle, December 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Robot-Javelin/";
+          
+        },
+      },{id: "post-dogs-playing-poker",
         
           title: "Dogs Playing Poker",
         
