@@ -52,7 +52,7 @@ W_{keep} &= t(t) = t + t^2 - t\\
 &= t^2
 \end{aligned}$$
 
-By applying the indifference principle, we can set the  equal to each other and solve for $t$.
+By applying the indifference principle, we can set them equal to each other and solve for $t$.
 
 $$\begin{aligned}
 t^2 &= \frac{t^2-t+1}{2}\\
@@ -125,7 +125,7 @@ Simplifying is annoying, but eventually we find that $t_{s} = 1 - \frac{\phi}{2}
     Figure 1: Monte Carlo simulation of both cases (Spears Robot vs. Standard Nash Equilibrium).
 </div>
 
-The results of a monte carlo simulation are above. The red and green maxima are located at approximately $\frac{1}{2}$ and $1 - \frac{\phi}{2}$, respectively, verifying the calculations.
+The results of a Monte Carlo simulation are above. The red and green maxima are located at approximately $\frac{1}{2}$ and $1 - \frac{\phi}{2}$, respectively, verifying the calculations.
 
 ## Part 3: Java-lin's Counter
 
@@ -167,7 +167,7 @@ So the optimal $t_{j} = \frac{7}{12}$.
 
 #### TRUE
 
-Since $\phi > \frac{7}{12}$ and Spears Robot's is using a better (i.e., closer to Nash) strategy, Java-lin should keep the original throw.
+Since $\phi > \frac{7}{12}$ and Spears Robot is using a better (i.e., closer to Nash) strategy, Java-lin should keep the original throw.
 
 ### Java-lin's Winning Probability
 
