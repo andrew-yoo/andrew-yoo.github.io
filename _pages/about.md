@@ -27,4 +27,4 @@ latest_posts:
 
 Hi, my name is Andrew.
 
-This website is very unfinished.
+This website is mostly unfinished, but feel free to take a look around.

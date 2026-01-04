@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robot Javelin
-date: 2026-01-03 19:20:00-0500
+date: 2026-01-03 18:30:00-0500
 description: Jane Street Puzzle, December 2025
 tags: 
 categories: puzzles
@@ -221,4 +221,3 @@ The resulting winning probability is: ```0.4939370904```. So it seems like Java-
     $$\lim_{t^* \rightarrow 0} d^*(t^*) \overset{?}{=} \frac{1}{2}$$
 
     $$\lim_{t^* \rightarrow 1} d^*(t^*) \overset{?}{=} \frac{1}{2}$$
-
