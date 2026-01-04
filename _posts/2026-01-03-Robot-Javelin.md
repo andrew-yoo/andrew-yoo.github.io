@@ -3,7 +3,7 @@ layout: post
 title: Robot Javelin
 date: 2026-01-03 18:30:00-0500
 description: Jane Street Puzzle, December 2025
-tags: 
+tags: math
 categories: puzzles
 giscus_comments: true
 related_posts: true
@@ -76,22 +76,22 @@ Intuitively, Spears will choose $d^* = \phi$ in order to maximize the informatio
 
 ### Spears Robot's Strategy
 
-Again, we can let $x$ be the value of Spears Robot's throw. Let $y$ be the value of Spears Robot's opponent's throw. If $y < d$, Spears Robot receives a FALSE signal; if $y > d$, Spears Robot receives a TRUE signal.
+Again, we can let $x$ be the value of Spears Robot's throw. Let $y$ be the value of Java's throw. If $y < d$, Spears receives a FALSE signal; if $y > d$, Spears receives a TRUE signal.
 
 #### FALSE
 
-If the signal returns FALSE, Spears Robot knows that their opponent will redraw and score in $\left[0,1\right]$. This means that Spears Robot will set their threshold, $t_{s}$ to maximize the expected value. Obviously, $t_{s}=\frac{1}{2}$ maximizes the EV.
+If the signal returns FALSE, Spears knows that their opponent will redraw and score in $\left[0,1\right]$. This means that Spears will set their threshold, $t_{s}$ to maximize the expected value. Obviously, $t_{s}=\frac{1}{2}$ maximizes the EV.
 
 #### TRUE
 
-If the signal returns TRUE, Spears Robot knows their opponent will not redraw and will score in $\left[\phi, 1\right]$. 
+If the signal returns TRUE, Spears knows their opponent will not redraw and will score in $\left[\phi, 1\right]$. 
 
 $$CDF = \begin{cases}
 0 & 0 \le y \le \phi \\
 \frac{y - \phi}{1 - \phi} & \phi \le y \le 1
 \end{cases}$$
 
-If Spears Robot redraws:
+If Spears redraws:
 
 $$\begin{aligned}
 W_{redraw} &= \int_{0}^{\phi} 0 \ dy + \int_{\phi}^{1}\frac{1 - y}{1 - \phi} dy \\
@@ -101,7 +101,7 @@ W_{redraw} &= \int_{0}^{\phi} 0 \ dy + \int_{\phi}^{1}\frac{1 - y}{1 - \phi} dy 
 &= \frac{1 - \phi}{2}
 \end{aligned}$$
 
-If Spears Robot keeps:
+If Spears keeps:
 
 $$\begin{aligned}
 W_{keep} &= \frac{t - \phi}{1 - \phi}
@@ -116,7 +116,7 @@ t &= \phi + \frac{1 - 2 \phi + \phi^2}{2}\\
 
 \end{aligned}$$
 
-Simplifying is annoying, but eventually we find that $t_{s} = 1 - \frac{\phi}{2}$ as the optimal threshold.
+Simplifying is annoying, but eventually we find that $t_{s} = 1 - \frac{\phi}{2} \approx 0.691$ as the optimal threshold.
 
 <div class="col-12 mx-auto">
     {% include figure.liquid loading="eager" path="assets/img/blog/robot_javelin_monte_carlo.png" class="img-fluid rounded z-depth-1" %}
@@ -125,21 +125,21 @@ Simplifying is annoying, but eventually we find that $t_{s} = 1 - \frac{\phi}{2}
     Figure 1: Monte Carlo simulation of both cases (Spears Robot vs. Standard Nash Equilibrium).
 </div>
 
-The results of a Monte Carlo simulation are above. The red and green maxima are located at approximately $\frac{1}{2}$ and $1 - \frac{\phi}{2}$, respectively, verifying the calculations.
+The results of a Monte Carlo simulation are above. The red and green maxima are located at approximately $0.5$ and $0.691$, respectively, verifying the calculations.
 
 ## Part 3: Java-lin's Counter
 
 ### Java-lin's Strategy
 
-After figuring out that Spears Robot is cheating, Java-lin can optimize its strategy. Again, we let $y$ be the value of Java-lin's throw. If $y < d$, Spears Robot receives a FALSE signal; if $y > d$, Spears Robot receives a TRUE signal.
+After figuring out that Spears is cheating, Java can optimize its strategy. Again, we let $y$ be the value of Java's throw and use the same signals.
 
 #### FALSE
 
-If the signal is FALSE, then Spears Robot will play to maximize expected value. However, since this is a deviation from the Nash Equilibrium, it is punishable if Java-lin chooses an appropriate $t_{j}$.
+If the signal is FALSE, then Spears will play to maximize expected value. However, since this is a deviation from the Nash Equilibrium, it is punishable if Java chooses an appropriate $t_{j}$.
 
 Luckily, we have already calculated the winning probabilities in Part 1—all there is to do is substitute $t$.
 
-First, we consider the case where Java-lin redraws.
+First, we consider the case where Java redraws.
 
 $$\begin{aligned}
 W_{redraw} &= \frac{t^2 - t + 1}{2} \\
@@ -148,7 +148,7 @@ W_{redraw} &= \frac{t^2 - t + 1}{2} \\
 &= \frac{3}{8}
 \end{aligned}$$
 
-Secondly, the case where Java-lin keeps.
+Secondly, the case where Java keeps.
 
 $$\begin{aligned}
 W_{keep} &= x + tx - t \\
@@ -167,7 +167,7 @@ So the optimal $t_{j} = \frac{7}{12}$.
 
 #### TRUE
 
-Since $\phi > \frac{7}{12}$ and Spears Robot is using a better (i.e., closer to Nash) strategy, Java-lin should keep the original throw.
+Since $\phi > \frac{7}{12}$ and Spears is using a better (i.e., closer to Nash) strategy, Java should keep the original throw.
 
 ### Java-lin's Winning Probability
 
@@ -175,25 +175,25 @@ We can now calculate the final winning probability. There are three cases to con
 
 #### Case 1: $y \in \left[0, \frac{7}{12}\right]$
 
-Java-lin will redraw as Spears Robot expects.
+Java will redraw as Spears Robot expects.
 
 $$W_1 = \int_{0}^{\frac{7}{12}} \frac{3}{8} dy $$
 
 #### Case 2: $y \in \left[\frac{7}{12}, \phi\right]$
 
-Java-lin will deviate from the Nash Equilibrium and keep, which goes against Spears Robot's expectation.
+Java will deviate from the Nash Equilibrium and keep, which goes against Spears' expectation.
 
 $$W_2 = \int_{\frac{7}{12}}^{\phi} \left(\frac{3}{2} y - \frac{1}{2}\right) dy$$
 
 #### Case 3: $y \in \left[\phi, 1\right]$
 
-Java-lin will keep as Spears Robot expects. This case is a little trickier to calculate, though: we know $y \in \left[\phi, 1\right]$ and Spears Robot is using the threshold $t = 1 - \frac{\phi}{2}$.
+Java will keep as Spears expects. This case is a little trickier to calculate, though: we know $y \in \left[\phi, 1\right]$ and Spears is using the threshold $t = 1 - \frac{\phi}{2}$.
 
 $$W_3 = \int_{\phi}^{1} \frac{5 \phi - 1}{8 \phi^2} dy$$
 
 #### Final Derivation
 
-We need to find $W_1 + W_2 + W_3$, but the $\phi$ terms make it messy. We turn to numerical integration.
+We need to find $W_1 + W_2 + W_3$, but the $\phi$ terms makes it messy. Instead of carrying everything out, we will turn to numerical integration.
 
 Since the integrands are all linear, Gaussian quadrature will yield an exact result.
 
