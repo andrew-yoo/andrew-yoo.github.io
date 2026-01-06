@@ -33,7 +33,7 @@ Since this is a symmetric game, there is a symmetric Nash equilibrium. Suppose y
 
 $$CDF = \begin{cases}
 tx & 0 \le x \le t\\
-x + tx - t & t \le x \le 0
+x + tx - t & t \le x \le 1
 \end{cases}$$
 
 Your winning probability can be calculated in the case that you redraw.
