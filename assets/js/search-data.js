@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-robot-javelin",
+        },{id: "post-test-post",
+        
+          title: "Test Post",
+        
+        description: "Testing Giscus Comments",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Test-Post/";
+          
+        },
+      },{id: "post-robot-javelin",
         
           title: "Robot Javelin",
         
