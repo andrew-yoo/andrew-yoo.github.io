@@ -21,7 +21,7 @@ I learned about Jane Street's monthly puzzles from a YouTube video in August 202
 | October 2025   | [Robot Baseball](https://www.janestreet.com/puzzles/robot-baseball-index/)           | :white_check_mark: |                                          |
 | November 2025  | [Shut the Box](https://www.janestreet.com/puzzles/shut-the-box-index/)               | :white_check_mark: |                                          |
 | December 2025  | [Robot Javelin](https://www.janestreet.com/puzzles/robot-javelin-index/)             | :white_check_mark: | [Link](../blog/2026/Robot-Javelin/)      |
-| January 2025   | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/)           | :white_check_mark: |                                          |
+| January 2026   | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/)           | :white_check_mark: |                                          |
 
 <br>
 
