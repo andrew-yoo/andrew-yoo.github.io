@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-robot-javelin",
+        },{id: "post-timely-journey",
+        
+          title: "Timely Journey",
+        
+        description: "Jane Street Puzzle, January 2026",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Timely-Journey/";
+          
+        },
+      },{id: "post-robot-javelin",
         
           title: "Robot Javelin",
         
