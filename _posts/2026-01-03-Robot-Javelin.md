@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: true
 ---
 
-# [Problem](https://www.janestreet.com/puzzles/robot-javelin-index/)
+# [Puzzle](https://www.janestreet.com/puzzles/robot-javelin-index/)
 
 It’s coming to the end of the year, which can only mean one thing: time for this year’s **Robot Javelin** finals! Whoa wait, you’ve never heard of Robot Javelin? Well then! Allow me to explain the rules:
 
