@@ -22,7 +22,7 @@ I learned about Jane Street's monthly puzzles from a YouTube video in August 202
 | November 2025  | [Shut the Box](https://www.janestreet.com/puzzles/shut-the-box-index/)               | :white_check_mark: |                                          |
 | December 2025  | [Robot Javelin](https://www.janestreet.com/puzzles/robot-javelin-index/)             | :white_check_mark: | [Link](../blog/2026/Robot-Javelin/)      |
 | January 2026   | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/)           | :white_check_mark: | [Link](../blog/2026/Timely-Journey)      |
-| February 2026  | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/)                   |                    |                                          |
+| February 2026  | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/)                   | :white_check_mark: |                                          |
 
 <br>
 
