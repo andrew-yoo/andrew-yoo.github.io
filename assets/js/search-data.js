@@ -16,7 +16,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-timely-journey",
+        },{id: "dropdown-puzzles",
+              title: "puzzles",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/puzzles/";
+              },
+            },{id: "post-timely-journey",
         
           title: "Timely Journey",
         
