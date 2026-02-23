@@ -33,7 +33,7 @@ After struggling for couple more days, I focused on the next clue: "what they're
 Then, I noticed that each card had a chip stack next to it, and shifted each letter forward by the number of chips in the corresponding pile.
 
 <div class="col-6 mx-auto">
-    {% include figure.liquid loading="eager" path="assets/img/blog/chip_stacks.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/blog/2025-09-01-Dogs-Playing-Poker/chip_stacks.png" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
     Figure 1: Chip Stacks with Count.
@@ -63,7 +63,7 @@ Doing so resulted in the message: "the canine of clubs."
 "Canine" is a homonym for K9, so our poodle's hand must be KC, 9C!
 
 <div class="col-6 mx-auto">
-    {% include figure.liquid loading="eager" path="assets/img/blog/k9_dog.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/blog/2025-09-01-Dogs-Playing-Poker/k9_dog.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
     Figure 2: K9 Dog.

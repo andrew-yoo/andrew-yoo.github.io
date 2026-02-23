@@ -119,7 +119,7 @@ t &= \phi + \frac{1 - 2 \phi + \phi^2}{2}\\
 Simplifying is annoying, but eventually we find that $t_{s} = 1 - \frac{\phi}{2} \approx 0.691$ as the optimal threshold.
 
 <div class="col-12 mx-auto">
-    {% include figure.liquid loading="eager" path="assets/img/blog/robot_javelin_monte_carlo.png" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/blog/2026-01-03-Robot-Javelin/robot_javelin_monte_carlo.png" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
     Figure 1: Monte Carlo simulation of both cases (Spears Robot vs. Standard Nash Equilibrium).
