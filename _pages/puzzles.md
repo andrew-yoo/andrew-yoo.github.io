@@ -23,13 +23,15 @@ I learned about Jane Street's monthly puzzles in August 2025 and have usually at
 | December 2025  | [Robot Javelin][5]      | :white_check_mark: | 437/647   | [Link](../blog/2026/Robot-Javelin/)      |
 | January 2026   | [Timely Journey][6]     | :white_check_mark: | 24/52     | [Link](../blog/2026/Timely-Journey)      |
 | February 2026  | [Subtiles 2][7]         | :white_check_mark: | 354/970   |                                          |
-| March 2026     | [Planetary Parade][8]   | :hourglass:        |           |                                          |
+| March 2026     | [Planetary Parade][8]   | :x:                |           |                                          |
+| April 2026     | [Can U Dig It?][9]      |                    |           |                                          |
+
 
 <br>
 
 ## Project Euler
 
-I sometimes do Project Euler problems, and I post my code in this [repository](https://github.com/andrew-yoo/project-euler).
+I sometimes do Project Euler problems, and I post my code in this [repo](https://github.com/andrew-yoo/project-euler).
 
 
 <!-- Jane Street Puzzle Links -->
@@ -41,3 +43,4 @@ I sometimes do Project Euler problems, and I post my code in this [repository](h
 [6]: https://www.janestreet.com/puzzles/timely-journey-index/
 [7]: https://www.janestreet.com/puzzles/subtiles-2-index/
 [8]: https://www.janestreet.com/puzzles/planetary-parade-index/
+[9]: https://www.janestreet.com/puzzles/can-u-dig-it-index/
