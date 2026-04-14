@@ -56,7 +56,13 @@ ninja.data = [{
             window.location.href = "/blog/2025/Dogs-Playing-Poker/";
           
         },
-      },{
+      },{id: "news-i-attended-the-northern-virginia-regional-science-fair-winning-the-mathematics-and-computer-science-category",
+          title: 'I attended the Northern Virginia Regional Science Fair, winning the Mathematics and Computer...',
+          description: "",
+          section: "News",},{id: "news-i-attended-the-virginia-state-science-and-engineering-fair-receiving-an-honorable-mention-for-the-leidos-award-for-excellence-in-computational-science",
+          title: 'I attended the Virginia State Science and Engineering Fair, receiving an honorable mention...',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
