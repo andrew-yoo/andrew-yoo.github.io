@@ -27,6 +27,6 @@ latest_posts:
 
 Hello, thanks for stopping by!
 
-I'm a high school junior. I love math and writing (terrible) code.
+I'm a high schooler that loves math and coding.
 
-This website is mostly unfinished, but feel free to take a look around.
+There isn't much to see here for now.
