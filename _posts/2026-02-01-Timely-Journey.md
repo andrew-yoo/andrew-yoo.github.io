@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: true
 ---
 
-# [Puzzle](https://www.janestreet.com/puzzles/robot-javelin-index/)
+# [Puzzle](https://www.janestreet.com/puzzles/timely-journey-index/)
 
 <div class="col-12 mx-auto">
     {% include figure.liquid loading="eager" path="assets/img/blog/2026-02-01-Timely-Journey/timely_journey_image.jpg" class="img-fluid rounded z-depth-1" %}
