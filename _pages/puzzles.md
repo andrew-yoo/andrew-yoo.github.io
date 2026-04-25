@@ -24,7 +24,7 @@ I learned about Jane Street's monthly puzzles in August 2025 and have usually at
 | January 2026   | [Timely Journey][6]     | :white_check_mark: | 24/52     | [Link](../blog/2026/Timely-Journey)      |
 | February 2026  | [Subtiles 2][7]         | :white_check_mark: | 354/970   |                                          |
 | March 2026     | [Planetary Parade][8]   | :x:                |           |                                          |
-| April 2026     | [Can U Dig It?][9]      |                    |           |                                          |
+| April 2026     | [Can U Dig It?][9]      | :white_check_mark: | 61/?      |                                          |
 
 
 <br>
