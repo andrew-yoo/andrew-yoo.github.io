@@ -23,7 +23,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/puzzles/";
               },
-            },{id: "post-timely-journey",
+            },{id: "post-can-u-dig-it",
+        
+          title: "Can U Dig It?",
+        
+        description: "Jane Street Puzzle, April 2026",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Can-U-Dig-It/";
+          
+        },
+      },{id: "post-timely-journey",
         
           title: "Timely Journey",
         
