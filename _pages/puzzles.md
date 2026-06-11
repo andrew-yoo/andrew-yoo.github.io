@@ -26,7 +26,7 @@ I learned about Jane Street's monthly puzzles in August 2025 and have usually at
 | March 2026     | [Planetary Parade][8]   | :x:                |           |                                          |
 | April 2026     | [Can U Dig It?][9]      | :white_check_mark: | 61/94     | [Link](../blog/2026/Can-U-Dig-It)        |
 | May 2026       | [Arch Madness][10]      | :white_check_mark: | 599/599   |                                          |
-| June 2026      | [Regional Artwork][11]  | :hourglass:        |           |                                          |
+| June 2026      | [Regional Artwork][11]  | :white_check_mark: | 560/?     |                                          |
 
 
 <br>
