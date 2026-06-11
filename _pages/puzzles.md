@@ -25,7 +25,8 @@ I learned about Jane Street's monthly puzzles in August 2025 and have usually at
 | February 2026  | [Subtiles 2][7]         | :white_check_mark: | 354/970   |                                          |
 | March 2026     | [Planetary Parade][8]   | :x:                |           |                                          |
 | April 2026     | [Can U Dig It?][9]      | :white_check_mark: | 61/94     | [Link](../blog/2026/Can-U-Dig-It)        |
-| May 2026       | [Arch Madness][10]      |                    |           |                                          |
+| May 2026       | [Arch Madness][10]      | :white_check_mark: | 599/599   |                                          |
+| June 2026      | [Regional Artwork][11]  | :hourglass:        |           |                                          |
 
 
 <br>
@@ -46,3 +47,4 @@ I sometimes do Project Euler problems, and I post my code in this [repo](https:/
 [8]: https://www.janestreet.com/puzzles/planetary-parade-index/
 [9]: https://www.janestreet.com/puzzles/can-u-dig-it-index/
 [10]: https://www.janestreet.com/puzzles/arch-madness-index/
+[11]: https://www.janestreet.com/puzzles/regional-artwork-index/
