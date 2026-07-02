@@ -23,7 +23,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/puzzles/";
               },
-            },{id: "post-can-u-dig-it",
+            },{id: "post-regional-artwork",
+        
+          title: "Regional Artwork",
+        
+        description: "Jane Street Puzzle, June 2026",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Regional-Artwork/";
+          
+        },
+      },{id: "post-can-u-dig-it",
         
           title: "Can U Dig It?",
         
