@@ -15,21 +15,21 @@ I like solving puzzles and have been asked about them by friends, so I thought I
 I learned about Jane Street's monthly puzzles in August 2025 and have usually attempted them since. 
 When I have time, I occasionally post a cursory writeup.
 
-| Month          | Puzzle                                         | Solved             | Position  | Post                                     |
-| -------------- | ---------------------------------------------- | ------------------ | --------- | ---------------------------------------- |
-| August 2025    | [Dogs Playing Poker][1]                        | :white_check_mark: | 210/245   | [Link](../blog/2025/Dogs-Playing-Poker/) |
-| September 2025 | [Hooks 11][2]                                  | :x:                |           |                                          |
-| October 2025   | [Robot Baseball][3]                            | :white_check_mark: | 770/777   |                                          |
-| November 2025  | [Shut the Box][4]                              | :white_check_mark: | 387/500   |                                          |
-| December 2025  | [Robot Javelin][5]                             | :white_check_mark: | 437/647   | [Link](../blog/2026/Robot-Javelin/)      |
-| January 2026   | [Timely Journey][6]                            | :white_check_mark: | 24/52     | [Link](../blog/2026/Timely-Journey)      |
-| February 2026  | [Subtiles 2][7]                                | :white_check_mark: | 354/970   |                                          |
-| March 2026     | [Planetary Parade][8]                          | :x:                |           |                                          |
-| April 2026     | [Can U Dig It?][9]                             | :white_check_mark: | 61/94     | [Link](../blog/2026/Can-U-Dig-It)        |
-| May 2026       | [Arch Madness][10]                             | :white_check_mark: | 599/599   |                                          |
-| June 2026      | [Regional Artwork][11]                         | :white_check_mark: | 558/1136  |                                          |
-| July 2026      | [‘Pent-Up’ Frustration 3 / Knight Moves 7][12] | :white_check_mark: | 156/1139  |                                          |
-| August 2026    | [Andy's Afternoon Amble][13]                   | :white_check_mark: | 149/      |                                          |
+| Month          | Puzzle                                         | Solved             | Position  | Post                                       |
+| -------------- | ---------------------------------------------- | ------------------ | --------- | ------------------------------------------ |
+| August 2025    | [Dogs Playing Poker][1]                        | :white_check_mark: | 210/245   | [Link](../blog/2025/Dogs-Playing-Poker/)   |
+| September 2025 | [Hooks 11][2]                                  | :x:                |           |                                            |
+| October 2025   | [Robot Baseball][3]                            | :white_check_mark: | 770/777   |                                            |
+| November 2025  | [Shut the Box][4]                              | :white_check_mark: | 387/500   |                                            |
+| December 2025  | [Robot Javelin][5]                             | :white_check_mark: | 437/647   | [Link](../blog/2026/Robot-Javelin/)        |
+| January 2026   | [Timely Journey][6]                            | :white_check_mark: | 24/52     | [Link](../blog/2026/Timely-Journey)        |
+| February 2026  | [Subtiles 2][7]                                | :white_check_mark: | 354/970   |                                            |
+| March 2026     | [Planetary Parade][8]                          | :x:                |           |                                            |
+| April 2026     | [Can U Dig It?][9]                             | :white_check_mark: | 61/94     | [Link](../blog/2026/Can-U-Dig-It)          |
+| May 2026       | [Arch Madness][10]                             | :white_check_mark: | 599/599   |                                            |
+| June 2026      | [Regional Artwork][11]                         | :white_check_mark: | 558/1136  |                                            |
+| July 2026      | [‘Pent-Up’ Frustration 3 / Knight Moves 7][12] | :white_check_mark: | 156/1139  |                                            |
+| August 2026    | [Andy's Afternoon Amble][13]                   | :white_check_mark: | 149/1384  | [Link](../blog/2026/Andys-Afternoon-Amble) |
 
 
 <br>
