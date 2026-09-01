@@ -23,7 +23,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/puzzles/";
               },
-            },{id: "post-can-u-dig-it",
+            },{id: "post-andy-39-s-afternoon-amble",
+        
+          title: "Andy&#39;s Afternoon Amble",
+        
+        description: "Jane Street Puzzle, August 2026",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Andys-Afternoon-Amble/";
+          
+        },
+      },{id: "post-can-u-dig-it",
         
           title: "Can U Dig It?",
         
