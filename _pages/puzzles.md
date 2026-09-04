@@ -30,6 +30,7 @@ When I have time, I occasionally post a cursory writeup.
 | June 2026      | [Regional Artwork][11]                         | :white_check_mark: | 558/1136  |                                            |
 | July 2026      | [‘Pent-Up’ Frustration 3 / Knight Moves 7][12] | :white_check_mark: | 156/1139  |                                            |
 | August 2026    | [Andy's Afternoon Amble][13]                   | :white_check_mark: | 149/1384  | [Link](../blog/2026/Andys-Afternoon-Amble) |
+| September 2026 | [Hint Singles][14]                             | :white_check_mark: | 124/?     |                                            |
 
 
 <br>
@@ -53,3 +54,4 @@ I sometimes do Project Euler problems, and I post my code in this [repo](https:/
 [11]: https://www.janestreet.com/puzzles/regional-artwork-index/
 [12]: https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/
 [13]: https://www.janestreet.com/puzzles/andys-afternoon-amble-index/
+[14]: https://www.janestreet.com/puzzles/hint-singles-index/

@@ -29,6 +29,6 @@ Hello, thanks for stopping by!
 
 I'm a high schooler that loves math and coding.
 
-Sometimes, I solve [puzzles](../puzzles).
+Sometimes, I solve [puzzles](./puzzles).
 
 Other than that, there isn't much to see here for now.
