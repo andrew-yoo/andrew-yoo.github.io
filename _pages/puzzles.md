@@ -56,4 +56,4 @@ I sometimes do Project Euler problems, and I post my code in this [repo](https:/
 [12]: https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/
 [13]: https://www.janestreet.com/puzzles/andys-afternoon-amble-index/
 [14]: https://www.janestreet.com/puzzles/hint-singles-index/
-[15]: 
+[15]: https://www.janestreet.com/puzzles/current-puzzle/
