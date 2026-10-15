@@ -31,7 +31,7 @@ When I have time, I occasionally post a cursory writeup.
 | July 2026      | [‘Pent-Up’ Frustration 3 / Knight Moves 7][12] | :white_check_mark:       | 156/1139  |                                            |
 | August 2026    | [Andy's Afternoon Amble][13]                   | :white_check_mark:       | 149/1384  | [Link](../blog/2026/Andys-Afternoon-Amble) |
 | September 2026 | [Hint Singles][14]                             | :white_check_mark:       | 124/1002  |                                            |
-| October 2026   | [It's a Metric, Too][15]                       | :hourglass_flowing_sand: |           |                                            |
+| October 2026   | [It's a Metric, Too][15]                       | :white_check_mark:       | 322/?     |                                            |
 
 
 <br>
